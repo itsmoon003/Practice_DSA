@@ -17,10 +17,11 @@ while (i < 5){
 
 console.log(text);
 
+//0
 //1
 //2
 //4
-//5
+
 
 
 
