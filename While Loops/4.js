@@ -25,4 +25,3 @@ console.log(text);
 
 
 
-// It is not starting with i=0; I'll think to improve that!
